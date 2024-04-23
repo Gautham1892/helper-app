@@ -1,11 +1,10 @@
-folium==0.12.1
-scikit-learn==0.24.2  # This will install sklearn which includes KMeans from scikit-learn
-twilio==7.0.0  # This will install twilio package for Twilio REST API
-streamlit==0.88.0
-Pillow==8.3.2
-inference-sdk==1.0.0
-PyPDF2==1.26.0
-langchain==1.0.0
-google-generativeai==1.0.0
-gtts==2.2.3
-streamlit-lottie==0.0.4
+folium==0.15.1
+scikit-learn==1.4.2  # This will install sklearn which includes KMeans from scikit-learn
+twilio==8.13.0  # This will install twilio package for Twilio REST API
+Pillow==9.5.0
+inference-sdk==0.9.22
+PyPDF2==3.0.1
+langchain==0.1.16
+google-generativeai==0.5.2
+gtts==2.5.1
+streamlit-lottie==0.0.3
