@@ -1,0 +1,17 @@
+{
+    "disaster_topics": [
+      {
+        "name": "Earthquake",
+        "pdf_path": "disaster_data/earthquake_data.pdf"
+      },
+      {
+        "name": "Flood",
+        "pdf_path": "disaster_data/flood_data.pdf"
+      },
+      {
+        "name": "Wildfire",
+        "pdf_path": "disaster_data/wildfire_data.pdf"
+      }
+    ]
+  }
+  

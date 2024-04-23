@@ -1,0 +1,304 @@
+{
+    "users": [
+        {
+            "name": "User 1",
+            "latitude": 13.073,
+            "longitude": 80.245,
+            "phone_number": "+91-601-1234567"
+        },
+        {
+            "name": "User 2",
+            "latitude": 13.112,
+            "longitude": 80.220,
+            "phone_number": "+91-602-2345678"
+        },
+        {
+            "name": "User 3",
+            "latitude": 13.056,
+            "longitude": 80.256,
+            "phone_number": "+91-603-3456789"
+        },
+        {
+            "name": "User 4",
+            "latitude": 13.094,
+            "longitude": 80.288,
+            "phone_number": "+91-604-4567890"
+        },
+        {
+            "name": "User 5",
+            "latitude": 13.037,
+            "longitude": 80.213,
+            "phone_number": "+91-605-5678901"
+        },
+        {
+            "name": "User 6",
+            "latitude": 13.131,
+            "longitude": 80.254,
+            "phone_number": "+91-606-6789012"
+        },
+        {
+            "name": "User 7",
+            "latitude": 13.088,
+            "longitude": 80.190,
+            "phone_number": "+91-607-7890123"
+        },
+        {
+            "name": "User 8",
+            "latitude": 13.067,
+            "longitude": 80.270,
+            "phone_number": "+91-608-8901234"
+        },
+        {
+            "name": "User 9",
+            "latitude": 13.119,
+            "longitude": 80.235,
+            "phone_number": "+91-609-9012345"
+        },
+        {
+            "name": "User 10",
+            "latitude": 13.102,
+            "longitude": 80.275,
+            "phone_number": "+91-610-0123456"
+        },
+        {
+            "name": "User 11",
+            "latitude": 13.056,
+            "longitude": 80.213,
+            "phone_number": "+91-611-1234567"
+        },
+        {
+            "name": "User 12",
+            "latitude": 13.131,
+            "longitude": 80.254,
+            "phone_number": "+91-612-2345678"
+        },
+        {
+            "name": "User 13",
+            "latitude": 13.088,
+            "longitude": 80.190,
+            "phone_number": "+91-613-3456789"
+        },
+        {
+            "name": "User 14",
+            "latitude": 13.067,
+            "longitude": 80.270,
+            "phone_number": "+91-614-4567890"
+        },
+        {
+            "name": "User 15",
+            "latitude": 13.119,
+            "longitude": 80.235,
+            "phone_number": "+91-615-5678901"
+        },
+        {
+            "name": "User 16",
+            "latitude": 13.102,
+            "longitude": 80.275,
+            "phone_number": "+91-616-6789012"
+        },
+        {
+            "name": "User 17",
+            "latitude": 13.056,
+            "longitude": 80.213,
+            "phone_number": "+91-617-7890123"
+        },
+        {
+            "name": "User 18",
+            "latitude": 13.131,
+            "longitude": 80.254,
+            "phone_number": "+91-618-8901234"
+        },
+        {
+            "name": "User 19",
+            "latitude": 13.088,
+            "longitude": 80.190,
+            "phone_number": "+91-619-9012345"
+        },
+        {
+            "name": "User 20",
+            "latitude": 13.067,
+            "longitude": 80.270,
+            "phone_number": "+91-620-0123456"
+        },
+        {
+            "name": "User 21",
+            "latitude": 13.119,
+            "longitude": 80.235,
+            "phone_number": "+91-621-1234567"
+        },
+        {
+            "name": "User 22",
+            "latitude": 13.102,
+            "longitude": 80.275,
+            "phone_number": "+91-622-2345678"
+        },
+        {
+            "name": "User 23",
+            "latitude": 13.056,
+            "longitude": 80.213,
+            "phone_number": "+91-623-3456789"
+        },
+        {
+            "name": "User 24",
+            "latitude": 13.131,
+            "longitude": 80.254,
+            "phone_number": "+91-624-4567890"
+        },
+        {
+            "name": "User 25",
+            "latitude": 13.088,
+            "longitude": 80.190,
+            "phone_number": "+91-625-5678901"
+        },
+        {
+            "name": "User 26",
+            "latitude": 13.067,
+            "longitude": 80.270,
+            "phone_number": "+91-626-6789012"
+        },
+        {
+            "name": "User 27",
+            "latitude": 13.119,
+            "longitude": 80.235,
+            "phone_number": "+91-627-7890123"
+        },
+        {
+            "name": "User 28",
+            "latitude": 13.102,
+            "longitude": 80.275,
+            "phone_number": "+91-628-8901234"
+        },
+        {
+            "name": "User 29",
+            "latitude": 13.056,
+            "longitude": 80.213,
+            "phone_number": "+91-629-9012345"
+        },
+        {
+            "name": "User 30",
+            "latitude": 13.131,
+            "longitude": 80.254,
+            "phone_number": "+91-630-0123456"
+        },
+        {
+            "name": "User 31",
+            "latitude": 13.088,
+            "longitude": 80.190,
+            "phone_number": "+91-631-1234567"
+        },
+        {
+            "name": "User 32",
+            "latitude": 13.067,
+            "longitude": 80.270,
+            "phone_number": "+91-632-2345678"
+        },
+        {
+            "name": "User 33",
+            "latitude": 13.119,
+            "longitude": 80.235,
+            "phone_number": "+91-633-3456789"
+        },
+        {
+            "name": "User 34",
+            "latitude": 13.102,
+            "longitude": 80.275,
+            "phone_number": "+91-634-4567890"
+        },
+        {
+            "name": "User 35",
+            "latitude": 13.056,
+            "longitude": 80.213,
+            "phone_number": "+91-635-5678901"
+        },
+        {
+            "name": "User 36",
+            "latitude": 13.131,
+            "longitude": 80.254,
+            "phone_number": "+91-636-6789012"
+        },
+        {
+            "name": "User 37",
+            "latitude": 13.088,
+            "longitude": 80.190,
+            "phone_number": "+91-637-7890123"
+        },
+        {
+            "name": "User 38",
+            "latitude": 13.067,
+            "longitude": 80.270,
+            "phone_number": "+91-638-8901234"
+        },
+        {
+            "name": "User 39",
+            "latitude": 13.119,
+            "longitude": 80.235,
+            "phone_number": "+91-639-9012345"
+        },
+        {
+            "name": "User 40",
+            "latitude": 13.102,
+            "longitude": 80.275,
+            "phone_number": "+91-640-0123456"
+        },
+        {
+            "name": "User 41",
+            "latitude": 13.056,
+            "longitude": 80.213,
+            "phone_number": "+91-641-1234567"
+        },
+        {
+            "name": "User 42",
+            "latitude": 13.131,
+            "longitude": 80.254,
+            "phone_number": "+91-642-2345678"
+        },
+        {
+            "name": "User 43",
+            "latitude": 13.088,
+            "longitude": 80.190,
+            "phone_number": "+91-643-3456789"
+        },
+        {
+            "name": "User 44",
+            "latitude": 13.067,
+            "longitude": 80.270,
+            "phone_number": "+91-644-4567890"
+        },
+        {
+            "name": "User 45",
+            "latitude": 13.119,
+            "longitude": 80.235,
+            "phone_number": "+91-645-5678901"
+        },
+        {
+            "name": "User 46",
+            "latitude": 13.102,
+            "longitude": 80.275,
+            "phone_number": "+91-646-6789012"
+        },
+        {
+            "name": "User 47",
+            "latitude": 13.056,
+            "longitude": 80.213,
+            "phone_number": "+91-647-7890123"
+        },
+        {
+            "name": "User 48",
+            "latitude": 13.131,
+            "longitude": 80.254,
+            "phone_number": "+91-648-8901234"
+        },
+        {
+            "name": "User 49",
+            "latitude": 13.088,
+            "longitude": 80.190,
+            "phone_number": "+91-649-9012345"
+        },
+        {
+            "name": "User 50",
+            "latitude": 13.067,
+            "longitude": 80.270,
+            "phone_number": "+91-650-0123456"
+        }
+    ]
+}
